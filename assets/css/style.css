@@ -1,0 +1,32 @@
+*,
+*:after,
+*:before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: sans-serif;
+}
+body{
+    margin: 1.5rem;
+}
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+.logo img{
+    width: 50px;
+}
+header {
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+.menu {
+    display: flex;
+}
+.menu a:nth-child(-n+2)
+ {
+    margin-right: 1.5rem;
+}
