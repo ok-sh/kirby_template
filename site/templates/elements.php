@@ -4,7 +4,9 @@
         <li>
             <a href="<?= $element->url() ?>">
                 <?= $element->image()->crop(480) ?>
-                <?= $element->title() ?>
+                <h4>
+                    <?= $element->title() ?>
+                </h4>
             </a>
         </li>   
         <?php endforeach ?>

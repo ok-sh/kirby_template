@@ -1,9 +1,12 @@
 title: Kuchen
+preset: page
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
 
-section: 
-  gallery:
-    type: files
-    layout: cards
-    image: 
-      ratio: 1/1
+
+
+
 
