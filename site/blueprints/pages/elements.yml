@@ -1,0 +1,12 @@
+title: Catering Services
+
+sections:
+  elements:
+    type: pages
+    layout: cards
+    image:
+      cover: true
+      ratio: 1/1
+
+ 
+

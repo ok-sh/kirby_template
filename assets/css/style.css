@@ -10,13 +10,17 @@ html {
 }
 body{
     margin: 1.5rem;
+    background-color: #e5e5e5;
+    color: rgb(65, 65, 65);
+    letter-spacing: 1px;
+    word-spacing: 2px;
 }
 a {
     color: currentColor;
     text-decoration: none;
 }
 .logo img{
-    width: 50px;
+    width: 200px;
 }
 header {
     margin-bottom: 1.5rem;
@@ -25,8 +29,17 @@ header {
 }
 .menu {
     display: flex;
+    align-items: center;
 }
-.menu a:nth-child(-n+2)
- {
+.menu a:nth-child(-n+2){
     margin-right: 1.5rem;
+}
+h1 {
+    margin-bottom:1rem; 
+}
+.catering {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-content: center;
+   
 }

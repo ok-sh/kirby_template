@@ -1,6 +1,8 @@
-Title: Contact
+Title: kontakt
 ----
-Text: mail@agency.com
+Text: 
+
+Adipisicing veniam ea officia do cupidatat sint. Do reprehenderit dolore anim mollit minim pariatur. Ea fugiat culpa ex amet duis ea consectetur tempor sunt dolor do cillum dolor. Qui sit id fugiat laborum ipsum qui anim et. Sunt magna aute elit elit non. Consectetur labore cupidatat esse labore exercitation aliqua in labore magna labore excepteur in cillum.
 ----
 Phone:
 ----

@@ -1,5 +1,5 @@
-Title: About
+Title: über mich
 ----
 Heading:  Something
 ----
-Text: We are a nice agency
+Text: ein Kuchen-Enthusiast...
