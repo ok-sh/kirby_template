@@ -1,7 +1,7 @@
 <?php snippet('header') ?>
 
       <a href="<?=$page->image()->url()?>">
-          <?=$page->image()->crop(640)?>
+          <?=$page->image()->resize(640)?>
       </a>
       <p>
             <?= $page->text()?>
