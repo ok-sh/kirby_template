@@ -43,20 +43,19 @@ header {
 h1 {
     margin-bottom:1rem; 
 }
-ul.catering {
+.cards  {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 1rem;
     align-content: center;
     list-style: none;
-}
-.catering  {
-    li  {
+        li  {
     display: block;
     width: auto;
     background-color:rgb(208, 208, 208);
     border-radius:  3px 3px 3px 3px;
-    transition: box-shadow .5s ;
+    transition: box-shadow .8s ;
+    margin: 0 1rem;
         img{
         width: 100%;
         border-radius: 3px 3px 0 0;
@@ -66,6 +65,9 @@ ul.catering {
         }
     }
     li:hover {
+        transition: .4s;
         box-shadow: gray 0 0 12px 1px;
+        transform: perspective(100px) translateZ(1px);
+        
     }
 }
