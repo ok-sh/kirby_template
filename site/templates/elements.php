@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-    <ul class="catering">
+    <ul class="cards">
         <?php foreach ($page->children()->listed() as $element): ?>
         <li>
             <a href="<?= $element->url() ?>">
